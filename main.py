@@ -1,4 +1,7 @@
+import math
+import random
+
 a = 20
 b = 2
 c = a - b
-print(a)
+print("1")
